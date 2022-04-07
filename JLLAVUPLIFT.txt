@@ -1,0 +1,51 @@
+
+21/6055 JLL
+
+Large Boardroom:
+
+UC Engine:
+Port: 52
+Switch Port: 15
+IP Address: 10.49.27.53
+MAC: 7C:10:C9:B8:E7:BE
+Host Name: A4-7C10C9B8E7BE
+S/N: 2139NAA00854
+
+Touchpanel:
+Port: 54 (UC PR LAN)
+Switch Port: 16
+IP Address: 10.49.27.51
+MAC: C4:42:68:09:CF:FB
+Host Name: TS-1070-C4426809CFFB		New: JLL-Boardroom-Touchpanel
+S/N: 2138JBH01397
+User: admin
+Pass: PAVS2110
+
+Biamp Tesira X400:
+Port: 53
+Switch Port: 17
+IP Address: 10.49.27.70
+MAC: 78:45:01:0D:6F:8A
+S/N: 04558141
+
+Jack Laptop (Service/Config):
+Data Port: 55
+Switch Port: 18
+
+6P Meeting Room:
+
+Crestron UC Engine (Microsoft Teams Room PC)
+Data Port: 47
+Switch Port: 19
+IP Address: 10.49.27.71
+MAC: 7C:10:C9:B8:E9:29
+Host Name: A4-7C10C9B8E929
+S/N: 2139NAA0087
+ 
+Crestron Touch panel:
+Data Port: 48
+Switch Port: 20
+IP Address:10.49.27.66
+MAC: C4:42:68:09:D0:45
+Host Name: TS-1070-C4426809D045
+S/N: 2138JBH01439
